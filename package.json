@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "alexonozor <alexonozor@gmail.com>",
-  "homepage": "https://alexonozor.github.io/vue-gitapp",
+  "homepage": "https://alexonozor.github.io/vuegit",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
